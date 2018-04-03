@@ -1,6 +1,6 @@
-# vue2_async_awite
+# async_await
 
-> a project of async and awite
+> a project of async and await
 
 # promise
 
