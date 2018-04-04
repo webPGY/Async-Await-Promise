@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h2>打开控制台看打印效果</h2>
+    <h3>代码详见HelloWorld.vue</h3>
   </div>
 </template>
 
