@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>打开控制台看打印效果</h2>
-    <h3>代码详见HelloWorld.vue</h3>
+    <h3 class="testpostcss">代码详见HelloWorld.vue</h3>
   </div>
 </template>
 
@@ -76,5 +76,12 @@ export default {
   }
   a {
     color: #42b983;
+  }
+  .testpostcss{
+    display: flex;
+    width: 100%;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
   }
 </style>
